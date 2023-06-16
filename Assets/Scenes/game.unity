@@ -215,7 +215,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: {fileID: 1188063673}
-  currenttime: 125
+  currenttime: 15
 --- !u!4 &44802614
 Transform:
   m_ObjectHideFlags: 0
