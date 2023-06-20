@@ -8,5 +8,6 @@ public class Retry : MonoBehaviour
     public void retry()
     {
         SceneManager.LoadScene(sceneName: "game");
+        //debug.log("hahaha");
     }
 }
